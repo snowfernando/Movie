@@ -44,6 +44,7 @@ based on the no. of seats available in each row.
 
 
 COMPILE ON COMMAND LINE
+> mkdir bin
 > find . -name "*.java" -print | xargs javac -classpath lib/junit-4.12.jar -d bin
 
 
